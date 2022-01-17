@@ -1,36 +1,14 @@
-# pegthing
+# Pegthing
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+A game copied from braveclojure.com
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar pegthing-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ lein run
 
 ## License
 
-Copyright © 2022 FIXME
+Copyright © 2022 AaronShark
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
